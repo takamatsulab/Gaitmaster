@@ -1,0 +1,5 @@
+{
+  "name": "GaitMaster AI: Walking Analysis Lab",
+  "description": "A web-based gait analysis application designed for students and researchers to process smartphone acceleration data, detect steps, and calculate clinical walking parameters using AI insights.",
+  "requestFramePermissions": []
+}
